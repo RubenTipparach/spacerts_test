@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Demo/Menu.unity
+    guid: 9ff4f07a5de04154895a1c41e89e5394
+  - enabled: 1
+    path: Assets/CustomRTSMenu.unity
+    guid: d6acc8a3b777ca34191cea79fcb50d1d
+  - enabled: 1
+    path: Assets/ShipOverview.unity
+    guid: 67ca3ddf555ab9e42a26e85b1ed94807

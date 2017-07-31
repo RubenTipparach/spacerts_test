@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LowresSpaceRTSTest.Plugins", "LowresSpaceRTSTest.Plugins.csproj", "{A1DA17A2-50E6-9B04-D9BB-E652DF7879E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LowresSpaceRTSTest", "LowresSpaceRTSTest.csproj", "{B5A112B1-6BD3-6C01-6444-67FB338A8E36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LowresSpaceRTSTest.Editor", "LowresSpaceRTSTest.Editor.csproj", "{38D63E00-337F-202A-F0CE-5A06DF6E5170}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1DA17A2-50E6-9B04-D9BB-E652DF7879E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1DA17A2-50E6-9B04-D9BB-E652DF7879E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1DA17A2-50E6-9B04-D9BB-E652DF7879E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1DA17A2-50E6-9B04-D9BB-E652DF7879E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5A112B1-6BD3-6C01-6444-67FB338A8E36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5A112B1-6BD3-6C01-6444-67FB338A8E36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5A112B1-6BD3-6C01-6444-67FB338A8E36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5A112B1-6BD3-6C01-6444-67FB338A8E36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38D63E00-337F-202A-F0CE-5A06DF6E5170}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38D63E00-337F-202A-F0CE-5A06DF6E5170}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38D63E00-337F-202A-F0CE-5A06DF6E5170}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38D63E00-337F-202A-F0CE-5A06DF6E5170}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
